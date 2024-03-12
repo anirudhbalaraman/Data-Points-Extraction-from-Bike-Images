@@ -1,0 +1,39 @@
+model_name,brand_name,image_url,bike_category,Light,Gender,Color
+Pasero SUV I-10,Hercules,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/227825/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Female,Grey
+E-Power C29 SE 3.0 CX7 Belt Sport,Corratec,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/231156/images2d/img_0001.jpg,City E-Bikes,Yes,Female,White
+Acid,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/236700/images2d/img_0001.jpg,Fahrrad Mountainbike,No,Male,White
+Attention,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/236950/images2d/img_0001.jpg,Fahrrad Mountainbike,No,Male,Black
+Mavaro Neo 1,Cannondale,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/236469/images2d/img_0001.jpg,City E-Bikes,Yes,Male,Black
+Nuride Hybrid Pro 625 Allroad,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/239126/images2d/img_0001.jpg,E-Bikes Hardtail,Yes,Hybrid,Grey
+ZEG CENTO 10,KTM,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/232422/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Hybrid,White
+Vibe H10,Orbea,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/205726/images2d/img_0001.jpg,Urban E-Bikes,No,Male,Green
+Intero Sport i-10,Hercules,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/238269/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Hybrid,Black
+Reaction Hybrid Race 625,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/232492/images2d/img_0001.jpg,E-Bikes Hardtail,No,Male,White
+Premio Evo 10 Lite,Pegasus,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/238284/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Hybrid,Black
+TourRay E 7.0,R Raymon,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/202107/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Male,Black
+Macina Team 672 Glorious,KTM,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/224139/images2d/img_0001.jpg,E-Bikes Hardtail,No,Male,Black
+Reaction Hybrid Race 625 29,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/239832/images2d/img_0001.jpg,E-Bikes Hardtail,No,Male,Red
+Pasero SUV I-10,Hercules,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/227948/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Female,Grey
+eBIG.NINE 300 SE,Merida,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/230404/images2d/img_0001.jpg,Trekking E-Bikes,No,Male,Grey
+Shark 6100,Böttcher,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/232621/images2d/img_0001.jpg,City E-Bikes,Yes,Male,Green
+Fathom E+2,Giant,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/234563/images2d/img_0001.jpg,E-Bikes Hardtail,No,Male,White
+Tempt E+ EX,Liv,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/241156/images2d/img_0001.jpg,Trekking E-Bikes,No,Male,Red
+DUNDEE LTD,Raleigh,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/235950/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Male,Green
+Yakun tour,Winora,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/233514/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Male,Grey
+SAM² 6.7,Focus,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/233693/images2d/img_0001.jpg,E-Bikes Fully,No,Hybrid,Yellow
+Tesoro Neo X 2 STH,Cannondale,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/236457/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Hybrid,Black
+M7b,Sparta,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/236171/images2d/img_0001.jpg,City E-Bikes,Yes,Female,Black
+Stereo Hybrid 140 HPC SL 750,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/240121/images2d/img_0001.jpg,E-Bikes Fully,No,Hybrid,Green
+Reaction Hybrid Pro 625 Allroad,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/240842/images2d/img_0001.jpg,E-Bikes Hardtail,Yes,Hybrid,Grey
+Reaction Hybrid SLT 625,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/240639/images2d/img_0001.jpg,Trekking E-Bikes,No,Hybrid,White
+Macina Style LTD,KTM,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/239263/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Female,Black
+eCross IN 1.0,CONE,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/238393/images2d/img_0001.jpg,E-Bikes Hardtail,Yes,Male,grey
+Macina Race 592,KTM,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/242074/images2d/img_0001.jpg,E-Bikes Hardtail,No,Male,orange
+ZEG Power Sport 10,KTM,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/241009/images2d/img_0001.jpg,Trekking E-Bikes,Yes,Hybrid,black
+eZesty AM 9.0,Lapierre,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/205479/images2d/img_0001.jpg,E-Bikes Fully,No,Male,grey
+Stereo Hybrid 140 HPC Race 625,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/241240/images2d/img_0001.jpg,E-Bikes Fully,No,Hybrid,white
+FullSeven 7,Haibike,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/241122/images2d/img_0001.jpg,E-Bikes Fully,No,hybrid,black
+E-Inception AM 7.6.1 GTF,Stevens,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/231678/images2d/img_0001.jpg,E-Bikes Fully,No,Hybrid,red
+Macina Cross 720,KTM,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/240798/images2d/img_0001.jpg,Trekking E-Bikes,No,Male,white
+Roadster Mixte Touring,Riese & Mueller,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/232552/images2d/img_0001.jpg,Trekking E-Bikes,No,Hybrid,green
+Stereo Hybrid 120 Race 625,Cube,https://rebike-photo-nas.s3.eu-central-1.amazonaws.com/presentations/238542/images2d/img_0001.jpg,E-Bikes Fully,No,Male,grey
